@@ -1,3 +1,15 @@
+# CD_MEAN_Angular_FirstAngularApp
+Troy Center troycenter1@gmail.com July 2017
+Coding Dojo MEAN stack. Angular Fundamentals, First App
+
+</strong>Build our first Angular app.</strong>
+This assignment is simple, create a new application using the CLI and run the Angular app on your browser using the commands you learned. We included them at the bottom as an easy reference.
+
+npm install -g @angular/cli
+ng new first-angular-app
+cd first-angular-app
+ng serve
+
 # Firstapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
